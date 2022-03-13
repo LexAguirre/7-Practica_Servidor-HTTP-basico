@@ -89,3 +89,7 @@
 9. Abre el navegador y escribe localhost:1337, observa lo sucedido
 
 10. Ahora entra en las herramientas del desarrollador y revisa la seccion de headers, Explica lo ocurrido
+
+## RECURSOS
+
+- https://www.npmjs.com/
