@@ -1,6 +1,6 @@
 ![Logo](img/ucol-logo.jpg)
 
-# Práctica 6: Emisor nativo de NODE
+# Práctica 7: Servidor HTTP basico
 
 > Primera Parcial
 
@@ -13,16 +13,39 @@
 
 ## OBJETIVO
 
-- Javascript Modules
-- Node Modules
+- NPM
+- Node Servers
 
 > ENTREGA: DOMINGO 13 DE MARZO DEL 2022
 
 ## INFORMACIÓN ADICIONAL
 
-Ahora vamos a utilizar el “event emitter” propio de NODE JS. Debido a que los Custom events, son manejados por este mecanismo, NODE JS proporciona un módulo que contiene un “event emitter” más robusto y probado.
+- HTTP
+  text ................
 
-Por último haremos una pequeña mejora al código incluyendo el concepto de “magic strings”. En la forma actual de nuestro código, hay una parte que es muy susceptible a errores de escritura o “typos” que son muy difíciles de detectar. Para evitar eso, la buena práctica entre los desarrolladores de software es crear un archivo “config.js” y “mapear” un nombre de variable a un string, de tal forma, que el string como tal, tiene su valor en un solo lugar de nuestro código y podemos referirnos al string mediante la notación del punto sin la necesidad de escribir el contenido del string todas las veces.
+- Servidor HTTP
+  text...
+
+- Formato del paquete HTTP (esquema)
+  text
+
+- ![HTTP Request/response](img/HTTP-PARTS.jpg)
+  text
+
+- HTTP Request
+  text
+
+- HTTP Response
+  text
+
+- Puerto TCP
+  text
+
+- Métodos HTTP
+  text
+
+- ![Network headers information](img/REQUEST.jpg)
+  text
 
 ## EXPLICACIÓN DEL PROCESO
 
