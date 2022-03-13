@@ -21,31 +21,39 @@
 ## INFORMACIÓN ADICIONAL
 
 - HTTP
-  text ................
+
+  - text ................
 
 - Servidor HTTP
-  text...
+
+  - text...
 
 - Formato del paquete HTTP (esquema)
-  text
+
+  - text
 
 - ![HTTP Request/response](img/HTTP-PARTS.jpg)
-  text
+
+  - text
 
 - HTTP Request
-  text
+
+  - text
 
 - HTTP Response
-  text
+
+  - text
 
 - Puerto TCP
-  text
+
+  - text
 
 - Métodos HTTP
-  text
+
+  - text
 
 - ![Network headers information](img/REQUEST.jpg)
-  text
+  - text
 
 ## EXPLICACIÓN DEL PROCESO
 
